@@ -1,0 +1,64 @@
+
+
+#title{
+    background-color: blueviolet;
+}
+
+#home{
+    background-color:aquamarine;
+}
+
+.encabezado{
+    background-color: aquamarine;
+    color:blue
+}
+.logo{
+    background-color: aqua;
+    height:100px;
+    width:100px;
+    border:50px;
+    margin:auto;
+    display: auto;
+    box-sizing: border-box;
+
+}
+.menu{
+    color: aqua;
+}
+
+#entrada{
+    background-color: aquamarine;
+    color: blue;
+    margin:auto;
+}
+.titulo-destacado{
+    background-color:aquamarine ;
+    color:brown;
+    margin:auto;
+    border:10px;
+
+}
+#novedades{
+    background-color:aquamarine;
+    margin:auto;
+    border:auto;
+}
+
+.contacto{
+    background-color: aquamarine;
+    margin:auto;
+    border:auto;
+}
+.descripcion{
+    color: aquamarine;
+
+}
+#footer{
+    background-color:aquamarine;
+    color:white;
+}
+.privacidad{
+    color:blue ;
+    background: none;
+}
+
